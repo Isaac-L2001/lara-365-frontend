@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.LaraExperienceApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_marca</item>
+
+        <item name="android:windowBackground">@color/background_color</item>
+
+        <item name="android:statusBarColor">@color/background_color</item>
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <item name="colorSurface">@color/color_surface</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.LaraExperienceApp" parent="Base.Theme.LaraExperienceApp" />
+
+    <style name="RoundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>

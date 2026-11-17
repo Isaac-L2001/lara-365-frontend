@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_surface">#1E1E1E</color>
+
+    <color name="background_color">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="text_primary">#DEFFFFFF</color>
+    <color name="text_secondary">#99FFFFFF</color>
+
+    <color name="color_marca">#EF5350</color>
+
+    <color name="divider_color">#333333</color>
+
+    <color name="bg_badge_light">#2C1A1A</color>
+
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+</resources>

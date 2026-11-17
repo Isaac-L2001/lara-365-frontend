@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.LaraExperienceApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_marca</item>
+
+        <item name="android:windowBackground">@color/background_color</item>
+
+        <item name="android:statusBarColor">@color/background_color</item>
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <item name="colorSurface">@color/color_surface</item>
+
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
